@@ -1,0 +1,2 @@
+#examples download link:
+https://hifive-web.s3.cn-northwest-1.amazonaws.com.cn/python/examples.zip
